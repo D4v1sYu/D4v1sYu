@@ -7,7 +7,7 @@
 
 - 📫 Comment me joindre : **d4v1s.yu@gmail.com**
 
-- 📄 Mes expériences : [Seulement académique pour le moment](Seulement académique pour le moment)
+- 📄 Mes expériences : [Seulement académique pour le moment]
 
 - ⚡ Fun fact : **J'apprécie les private jokes et les références bien placées lors de discussion**
 
