@@ -3,9 +3,9 @@
 
 &nbsp;
 
-- 🌱 Je suis en train d'apprendre : **PHP** 
+- 🌱 Je suis en train d'apprendre : **React** 
 
-- 💬 A mon sujet : $\textcolor{yellow}{\textsf{Je cherche actuellement un stage pour valider mes années de BUT}}$ 
+- 💬 A mon sujet : $\textcolor{orange}{\textsf{Je cherche actuellement un stage pour valider mes années de BUT}}$ 
 
 - 📫 Comment me joindre : **d4v1s.yu@gmail.com**
 
