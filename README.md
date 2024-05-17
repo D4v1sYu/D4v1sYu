@@ -3,7 +3,7 @@
 
 &nbsp;
 
-- 🌱 Je suis en train d'apprendre : **React** 
+- 🌱 Je suis en train d'apprendre : **Python** 
 
 - 💬 A mon sujet : $\textcolor{orange}{\textsf{Je cherche actuellement un stage pour valider mes années de BUT}}$ 
 
