@@ -1,15 +1,15 @@
 <h1 align="center">Je suis Davis Yu</h1>
-<h3 align="center">Un étudiant en deuxième année de BUT informatique</h3>
+<h3 align="center">Un étudiant en troisième année de BUT informatique</h3>
 
 &nbsp;
 
-- 🌱 Je suis en train d'apprendre : **Python** 
+- 🌱 Je suis en train d'apprendre : **Unity** 
 
 - 💬 A mon sujet : $\textcolor{orange}{\textsf{Je cherche actuellement un stage pour valider mes années de BUT}}$ 
 
 - 📫 Comment me joindre : **d4v1s.yu@gmail.com**
 
-- 📄 Mes expériences : **Seulement académique pour le moment**
+- 📄 Mes expériences : **J'ai effectué un stage de 2 mois en tant que Développeur Backend pour l'amélioration d'une API**
 
 - ⚡ Fun fact : **J'apprécie les private jokes et les références bien placées lors de discussion**
 
