@@ -9,7 +9,8 @@
 
 - 📫 Comment me joindre : **d4v1s.yu@gmail.com**
 
-- 📄 Mes expériences : **J'ai effectué un stage de 3 mois à Montréal en Automatisation de Traitements de données géospatiales**  
+- 📄 Mes expériences :  
+**J'ai effectué un stage de 3 mois à Montréal en Automatisation de Traitements de données géospatiales**  
 **Un stage de 2 mois à Paris en tant que Développeur Backend pour l'amélioration d'une API**
 
 - ⚡ Fun fact : **J'apprécie les private jokes et les références bien placées lors de discussion**
@@ -17,13 +18,15 @@
 &nbsp;
 
 ## 🛠️ Stack Technique
-![SkillIcons](https://skillicons.dev/icons?i=cpp,cs,java,python,js,ts,react,html,css,tailwind,bootstrap,php,spring,nodejs,dotnet)
-![SkillIcons](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,oracle,tensorflow)
-![SkillIcons](https://skillicons.dev/icons?i=docker,kubernetes,git,postman,figma,androidstudio,unity,unreal)
+![SkillIcons](https://skillicons.dev/icons?i=c,cpp,java,python,js,react,html,css,bootstrap,php,spring,nodejs,dotnet)  
+![SkillIcons](https://skillicons.dev/icons?i=cs,unity,unreal)  
+![SkillIcons](https://skillicons.dev/icons?i=mysql,postgres,mongodb)  
+![SkillIcons](https://skillicons.dev/icons?i=linux,ubuntu,bash,jenkins,docker,kubernetes,git)  
+![SkillIcons](https://skillicons.dev/icons?i=postman,figma,idea,vscode)
 
 &nbsp;
 
 ## 📊 Statistiques GitHub
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TMTVato&radius=16&theme=react&area=true" width="100%" alt="stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D4v1sYu&radius=16&theme=react&area=true" width="100%" alt="stats" />
 </p>
