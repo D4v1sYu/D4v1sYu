@@ -30,3 +30,15 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=D4v1sYu&radius=16&theme=react&area=true" width="100%" alt="stats" />
 </p>
+
+<p align="center">
+  <kbd>
+    <img src="https://ghchart.rshah.org/40c463/D4v1sYu" alt="Heatmap Green" width="1000" />
+  </kbd>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=D4v1sYu&show_icons=true&theme=react&border_radius=16" height="200" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D4v1sYu&theme=react&border_radius=16" alt="Streak Stats" />
+</p>
